@@ -20,6 +20,7 @@ $ cd <folder>
 $ git clone https://github.com/acushlakoncept/micro-reddit.git
 $ cd micro-reddit
 $ bundle install 
+$ yarn install --check-files
 ~~~
 
 # Authors
