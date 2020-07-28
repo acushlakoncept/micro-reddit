@@ -1,7 +1,6 @@
-# README
+# Micro-Reddit - Reddit website clone
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project, we built the data structures necessary to support link submissions and commenting.
 
 Things you may want to cover:
 
@@ -22,4 +21,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# micro-reddit
+
