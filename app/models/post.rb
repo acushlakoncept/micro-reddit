@@ -2,7 +2,5 @@ class Post < ApplicationRecord
   belongs_to :user
   has_many :comments
 
-  validates :title, presence: true
-  validates :url, presence: true
-  validates :user, presence: true
+  validates :title, :url, :user, presence: true
 end
