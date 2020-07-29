@@ -1,6 +1,6 @@
-# Blog App Using Ruby on Rails
+# Active Records Model of Micro-Reddit
 
-This project was used to get our feets wet working on database model using Rails powerful ORM called Active Record.
+This project was used to get our feets wet working on database model using Rails powerful ORM called Active Records.
 The data structures necessary to support link submissions and commenting on Reddit was the main focus of this project
 
 ## Built With
